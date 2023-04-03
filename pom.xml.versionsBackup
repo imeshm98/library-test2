@@ -5,7 +5,7 @@
 
 	<groupId>com.apps</groupId>
 	<artifactId>my-app-new</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
